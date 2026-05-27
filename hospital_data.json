@@ -1,0 +1,58 @@
+{
+"name":"Multispeciality Hospital",
+"location":"Pune",
+"address":"Near Navale Bridge, Pune",
+"timing":"9 AM to 8 PM",
+"contact":"9876543210",
+
+"departments":[
+"Dental",
+"Cardiology",
+"Pediatrics",
+"Orthopedic",
+"Neurology",
+"Dermatology"
+],
+
+"services":[
+"Teeth Cleaning",
+"Root Canal",
+"Heart Checkup",
+"Child Care",
+"Fracture Treatment",
+"Skin Treatment",
+"Brain Scan"
+],
+
+"doctors":[
+{
+"name":"Dr. Varad",
+"specialization":"Cardiologist"
+},
+
+{
+"name":"Dr. Pradnya",
+"specialization":"Dentist"
+},
+
+{
+"name":"Dr. Amit",
+"specialization":"Orthopedic"
+}
+],
+
+"emergency":"24x7 Emergency",
+
+"ambulance":"Ambulance Available",
+
+"insurance":"Insurance Accepted",
+
+"facilities":[
+"ICU",
+"Pharmacy",
+"Parking",
+"Emergency Ward"
+],
+
+"appointment":"Call hospital for booking"
+}
